@@ -1,8 +1,0 @@
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\bin\Debug\Lesson2.exe
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\obj\Debug\Lesson3.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\obj\Debug\Lesson3.csproj.SuggestedBindingRedirects.cache
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\obj\Debug\Lesson2.exe
-C:\Users\LENOVO\Desktop\Backend -118-Tasks\Lesson2\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
